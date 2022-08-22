@@ -1,0 +1,8 @@
+<Monsters>
+<Monster id="1" attack="10" hp="100" />
+<Monster id="2" attack="20" hp="150" />
+<Monster id="3" attack="30" hp="200" />
+<Monster id="4" attack="40" hp="300" />
+<Monster id="5" attack="50" hp="400" />
+<Monster id="6" attack="60" hp="500" />
+</Monsters>
